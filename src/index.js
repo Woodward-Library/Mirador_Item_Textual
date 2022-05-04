@@ -51,7 +51,7 @@ Mirador.viewer({
 
   windows: [
     {
-      "loadedManifest": "https://iiif.lib.harvard.edu/manifests/drs:48309543",
+      "loadedManifest": "https://iiif.wellcomecollection.org/presentation/v2/b18035723",
       "canvasIndex": 0,
       sideBarOpen: false,
       view:'single',
