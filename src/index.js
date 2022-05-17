@@ -51,7 +51,7 @@ Mirador.viewer({
 
   windows: [
     {
-      "loadedManifest": "https://iiif.library.ubc.ca/presentation/cdm.creelman.1-0383264/manifest",
+      "loadedManifest": "https://iiif.library.ubc.ca/presentation/cdm.manuscripts.1-0364176/manifest",
       "canvasIndex": 0,
       sideBarOpen: false,
       view:'single',
